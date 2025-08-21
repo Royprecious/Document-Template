@@ -1,0 +1,26 @@
+{
+    "development": {
+      "username": "docTemp-user",
+      "password": "docTemp_password",
+      "database": "docTemp_db",
+      "host": "localhost",
+      "dialect": "mysql"
+    },
+    "test": {
+      "username": "docTemp-user",
+      "password": null,
+      "database": "docTemp_db",
+      "host": "127.0.0.1",
+      "dialect": "mysql"
+    },
+    "production": {
+      "username": "docTemp-user",
+      "password": "docTemp_password",
+      "database": "docTemp_db",
+      "host": "127.0.0.1",
+      "dialect": "mysql"
+    }
+  }
+  
+ 
+  
